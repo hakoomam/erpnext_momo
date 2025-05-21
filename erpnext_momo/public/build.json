@@ -1,0 +1,6 @@
+{
+  "erpnext_momo.bundle.js": [
+    "public/js/sales_invoice.js"
+  ],
+  "erpnext_momo.bundle.css": []
+}

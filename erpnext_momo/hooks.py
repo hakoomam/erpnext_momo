@@ -1,0 +1,8 @@
+app_name = "erpnext_momo"
+app_title = "ERPNext MoMo Zambia"
+app_publisher = "Miyanda Hakooma"
+app_description = "ERPNext integration for MTN MoMo Zambia"
+app_icon = "octicon octicon-device-mobile"
+app_color = "yellow"
+app_email = "mh@antares.co.zm"
+app_license = "MIT"

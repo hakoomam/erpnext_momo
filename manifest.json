@@ -1,0 +1,10 @@
+{
+  "app_name": "erpnext_momo",
+  "app_title": "ERPNext MoMo Zambia",
+  "app_publisher": "Miyanda Hakooma",
+  "app_email": "mh@antares.co.zm",
+  "app_description": "ERPNext integration for MTN MoMo Zambia",
+  "app_version": "1.0.1",
+  "frappe_version": "15.0.0",
+  "license": "MIT"
+}
